@@ -68,7 +68,7 @@ docker-compose -f docker-compose-eventuate-local-mysql.yml up -d
 
 ## Further background information
 
-- The actual event propagation post persisting is executed by the CDC service.
+- The actual event propagation post db commit is executed by the CDC service.
 
 ## Evaluation outcome 
 
