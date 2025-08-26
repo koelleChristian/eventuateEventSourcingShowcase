@@ -18,7 +18,7 @@
         <version.surefire.plugin>3.0.0-M3</version.surefire.plugin>
         <version.source.plugin>3.1.0</version.source.plugin>
 
-        <version.commons.lang3>3.5</version.commons.lang3>
+        <version.commons.lang3>3.18.0</version.commons.lang3>
         <version.junit.jupiter>5.3.1</version.junit.jupiter>
         <version.jaxb.api>2.3.2</version.jaxb.api>
 
